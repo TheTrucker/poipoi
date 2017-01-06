@@ -237,6 +237,7 @@
 		777C89861DF8413300EFB2E2 /* image */ = {
 			isa = PBXGroup;
 			children = (
+				84CBDE5D1E204A59004B7C07 /* p50-51_.png */,
 				777C89871DF8413300EFB2E2 /* front-bus.png */,
 				77E23A2A1E204ADC004F500C /* Снимок экрана 2017-01-06 в 14.20.06.png */,
 			);
@@ -305,6 +306,7 @@
 			files = (
 				777C89881DF8413300EFB2E2 /* front-bus.png in Resources */,
 				777C89251DF575AE00EFB2E2 /* LaunchScreen.storyboard in Resources */,
+				84CBDE5E1E204A59004B7C07 /* p50-51_.png in Resources */,
 				777C89221DF575AE00EFB2E2 /* Assets.xcassets in Resources */,
 				777C89201DF575AE00EFB2E2 /* Main.storyboard in Resources */,
 				77E23A2B1E204ADC004F500C /* Снимок экрана 2017-01-06 в 14.20.06.png in Resources */,
