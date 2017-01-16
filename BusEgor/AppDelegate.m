@@ -26,14 +26,13 @@
     // Override point for customization after application launch.
     
     
-    self.timer = [NSTimer scheduledTimerWithTimeInterval:60.f repeats:YES block:^(NSTimer * _Nonnull timer) {
-        [[ADServerManager sharedManager] getBusForCurrentsBusWithBlock:nil];
-        
-        NSLog(@"timer invocate");
-    }];
+//    self.timer = [NSTimer scheduledTimerWithTimeInterval:60.f repeats:YES block:^(NSTimer * _Nonnull timer) {
+//        [[ADServerManager sharedManager] getBusForCurrentsBusWithBlock:nil];
+//        
+//        NSLog(@"timer invocate");
+//    }];
     
-    
-    //comment1
+
     
     return YES;
 }
